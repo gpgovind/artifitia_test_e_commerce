@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485825134916",
+    "project_id": "machine-test-new",
+    "storage_bucket": "machine-test-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485825134916:android:a24ce157b044af7d629711",
+        "android_client_info": {
+          "package_name": "com.example.artifitia_test_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485825134916-mbo7e6qt59e6l8iqrhal5lhur3dtfoia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artifitia_test_e_commerce",
+            "certificate_hash": "3823cd11b52c20b37d19aed0a7c1bb317a6f5c88"
+          }
+        },
+        {
+          "client_id": "485825134916-h4thf9n0ooofvl0fn8v7qkr46tjcn2cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8j7i1MzdHTxn6Uk8JYQAoqFQyRyMopVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485825134916-h4thf9n0ooofvl0fn8v7qkr46tjcn2cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
